@@ -60,7 +60,7 @@ def simple_web_crawler(start_url, max_depth=3):
 
 # Example usage
 
-start_url = 'http://google.com'
+start_url = 'http://example.com'
 
 simple_web_crawler(start_url, max_depth=3)
 
